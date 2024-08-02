@@ -1,3 +1,4 @@
+![pixlr-image-generator-9273429c-86e7-4075-b36e-2d9d8c0f9474](https://github.com/user-attachments/assets/2faaae98-bb2f-4b08-89ec-718cc68b127a)
 🟢The provided Python code is a script that aims to remove all files from the Linux operating system. The code analysis is as follows:
 
 🔵1. **Importing libraries**:
